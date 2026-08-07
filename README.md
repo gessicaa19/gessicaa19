@@ -30,13 +30,13 @@
 <tr>
 <td width="60%" align="left" valign="middle" style="border: none;">
 
-✨ Hello There! I'm **Rayan**, an AI Developer & Software Engineering student. I enjoy building intelligent systems, solving algorithmic problems, and working on backend architectures.
+Hello There! I'm **Rayan**, an AI Developer & Software Engineering student. I enjoy building intelligent systems, solving algorithmic problems, and working on backend architectures.
 
 <br>
 
-🌟 **Studying Software Engineering & AI**  
-⭐ **Active in Competitive Programming & Development**  
-💫 **Building real-world web & AI applications**  
+* 🏢 Studying Software Engineering & AI
+* 💻 Active in Competitive Programming & Development
+* 🚀 Building real-world web & AI applications
 
 </td>
 <td width="40%" align="center" valign="middle" style="border: none;">
