@@ -28,17 +28,19 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About me
 
 <table width="100%" style="border: none; background-color: transparent;">
 <tr>
 <td width="60%" align="left" valign="top" style="border: none;">
 
-Hey, I'm **Rayan** 👋
+Hello There! I'm **Rayan**, an AI Developer & Software Engineering student. I enjoy building intelligent systems, solving algorithmic problems, and working on backend architectures.
 
-I'm an **AI Developer and Software Engineering student** focused on backend development, intelligent systems, and building real-world applications.
+<br>
 
-I enjoy building scalable solutions and understanding how systems work behind the scenes.
+🏢 *Studying Software Engineering & AI*  
+💻 *Active in Competitive Programming & Development*  
+🚀 *Building real-world web & AI applications*  
 
 </td>
 <td width="40%" align="center" valign="middle" style="border: none;">
@@ -49,62 +51,17 @@ I enjoy building scalable solutions and understanding how systems work behind th
 </tr>
 </table>
 
-### 🧠 Currently Learning & Using
-
-- 🐍 Python
-- ⚡ FastAPI & Node.js
-- 🐘 PostgreSQL & MySQL
-- 🐳 Docker & Linux
-- 🔴 Redis
-- 🧠 Data Structures & Algorithms
-
-### 🎯 My Goal
-
-Write clean code.
-
-Build reliable software.
-
-Understand real-world systems.
-
-And grow into an engineer who creates systems that actually last.
-
 ---
 
-## 🤝 Connect
+## ⚙️ Technologies
 
 <p align="center">
-<a href="https://github.com/rayanbengourchii-code">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,js,ts,fastapi,nodejs,react,tailwind,docker,git,linux,postgres,mysql,redis" />
 </p>
 
 ---
 
-## 💻 Tech Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,cpp" />
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,django" />
-</p>
-
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,redis" />
-</p>
-
-### DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
-</p>
-
----
-
-## 📊 GitHub Stats
+## 📊 Statistics
 
 <p align="center">
   <img
