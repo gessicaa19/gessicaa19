@@ -20,10 +20,6 @@
   </a>
 </p>
 
-<h1 align="center">
-  <code>Hi 👋, I'm Rayan</code>
-</h1>
-
 <h3 align="center">AI Developer & Python Engineer | Backend Developer</h3>
 
 ---
@@ -38,9 +34,9 @@ Hello There! I'm **Rayan**, an AI Developer & Software Engineering student. I en
 
 <br>
 
-🏢 *Studying Software Engineering & AI*  
-💻 *Active in Competitive Programming & Development*  
-🚀 *Building real-world web & AI applications*  
+🏢 Studying Software Engineering & AI  
+💻 Active in Competitive Programming & Development  
+🚀 Building real-world web & AI applications  
 
 </td>
 <td width="40%" align="center" valign="middle" style="border: none;">
@@ -56,7 +52,21 @@ Hello There! I'm **Rayan**, an AI Developer & Software Engineering student. I en
 ## ⚙️ Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,java,js,ts,fastapi,nodejs,react,tailwind,docker,git,linux,postgres,mysql,redis" />
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/FASTAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TAILWIND-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REDIS-000000?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 ---
