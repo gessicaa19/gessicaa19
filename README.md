@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,23,34,45&height=220&section=header&text=Welcome%20to%20Rayan's%20Github&fontSize=35&fontAlignY=38&desc=</>&descSize=20&descAlignY=58" width="100%" />
+  <img src="./assets/github-readme.png" width="100%" alt="Rayan's GitHub README">
 </p>
 
 <h1 align="center">Hi 👋, I'm Rayan</h1>
@@ -28,7 +28,7 @@ I enjoy building scalable solutions and understanding how systems work behind th
 </td>
 <td width="40%" align="center" valign="middle" style="border: none;">
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="220" alt="Astronaut / Animation" />
+<img src="./assets/ascii-typing.gif" width="220" alt="ASCII Typing Animation" />
 
 </td>
 </tr>
