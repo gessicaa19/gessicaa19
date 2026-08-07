@@ -36,7 +36,7 @@
 
 ⭐ Studying Software Engineering & AI  
 ✨ Active in Competitive Programming & Development  
-🌟 Building real-world web & AI applications  
+🌟 Building real-world web, mobile & AI applications  
 
 </td>
 <td width="40%" align="center" valign="middle" style="border: none;">
@@ -57,26 +57,15 @@
   <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/FLUTTER-000000?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/REACT_NATIVE-000000?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/FASTAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/TAILWIND-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REDIS-000000?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 ---
-  
-  
-  <!-- Additional Stats Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=red1-for-hek&theme=tokyonight" width="95%" alt="Profile Details"/>
-</div>
-
-<br/>
 
 <img src="./assets/divider.svg" width="100%"/>
 
@@ -85,7 +74,7 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🏆 ACHIEVEMENTS SECTION                                                     -->
+<!-- 🏆 ACHIEVEMENTS SECTION                                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <img src="./assets/section-trophy.svg" width="200"/>
@@ -95,7 +84,6 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-trophies.vercel.app/?username=red1-for-hek&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
   </a>
-  
 </div>
 
 <br/>
@@ -106,15 +94,29 @@
 
 ---
 <!-- 💻 LANGUAGES -->
-<h4>💻 Languages</h4>
+<h4>💻 Languages & Core</h4>
 <p>
   <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" title="TypeScript"/></a>
   <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" title="C++"/></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" title="C"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java"/></a>
   <a href="https://kotlinlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin" title="Kotlin"/></a>
+  <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://skillicons.dev/icons?i=swift&theme=dark" alt="Swift" title="Swift"/></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" title="PHP"/></a>
+  <a href="https://golang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" title="Go"/></a>
+  <a href="https://www.rust-lang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=rust&theme=dark" alt="Rust" title="Rust"/></a>
+  <a href="https://soliditylang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=solidity&theme=dark" alt="Solidity" title="Solidity"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" title="Bash"/></a>
+</p>
+
+<!-- 📱 MOBILE DEVELOPMENT -->
+<h4>📱 Mobile Development</h4>
+<p>
+  <a href="https://flutter.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" title="Flutter"/></a>
+  <a href="https://reactnative.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React Native" title="React Native"/></a>
+  <a href="https://developer.android.com/" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" alt="Android" title="Android Studio"/></a>
 </p>
 
 <!-- 🤖 AI & MACHINE LEARNING -->
@@ -132,6 +134,7 @@
   <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" title="Next.js"/></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" title="FastAPI"/></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django" title="Django"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" title="Flask"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" title="Tailwind CSS"/></a>
@@ -163,13 +166,6 @@
   <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" title="Postman"/></a>
 </p>
 
-</div>
-
 <br/>
 
 <img src="./assets/divider.svg" width="100%"/>
-
-<br/>
-
-    repeat();
-}
