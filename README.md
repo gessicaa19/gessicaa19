@@ -49,7 +49,15 @@
 
 ---
 
-## ⚙️ Technologies
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=red1-for-hek&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&row=2&columns=4" width="100%" />
+</p>
+
+---
+
+## ⚙️ Tech Stack & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -71,10 +79,20 @@
 
 ---
 
-## 🏆 Achievements
+## 📊 GitHub Analytics & Statistics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=red1-for-hek&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&row=2&columns=4" width="100%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rayanbengourchii-code&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff"
+    width="480"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=rayanbengourchii-code&theme=dark&hide_border=true&background=0D1117"
+    width="480"
+  />
 </p>
 
 ---
