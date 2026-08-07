@@ -1,14 +1,14 @@
 <!-- ========================================================= -->
-<!--                    PROFILE HEADER                         -->
+<!--                       HEADER                              -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="./assets/ascii-typing.gif" width="420"/>
+<img src="./assets/ascii-typing.gif" width="420">
 
-<br>
+<br><br>
 
-# Hi 👋, I'm <YOUR_NAME>
+# Hi 👋, I'm Gessica
 
 ### Backend Developer
 
@@ -17,7 +17,7 @@
 <br>
 
 Building reliable backend systems with clean architecture,
-scalable solutions, and a little bit of obsession over details.
+scalable solutions, and production-ready code.
 
 </div>
 
@@ -34,27 +34,27 @@ scalable solutions, and a little bit of obsession over details.
 
 <td width="60%" valign="top">
 
-### Hey, I'm <YOUR_NAME> 👋
+### Hey, I'm Gessica 👋
 
 I'm a **Computer Engineering student** focused on
-backend development and building real-world software.
+backend development and building real-world systems.
 
-I enjoy creating:
+I enjoy building scalable applications and
+understanding how backend systems work behind the scenes.
 
-- ⚡ Scalable APIs
-- 🧩 Clean architectures
-- 🗄️ Database-driven applications
-- 🔐 Secure backend systems
-- 🐳 Containerized applications
-- 🚀 Production-ready services
+<br>
 
-Currently learning and improving my skills in:
+### 🧠 Currently Learning
 
-**Python • FastAPI • PostgreSQL • SQLAlchemy • Docker • Redis**
+- 🐍 Python
+- ⚡ FastAPI
+- 🐘 PostgreSQL
+- 🦀 SQLAlchemy
+- 🐳 Docker
+- 🔴 Redis
+- 🧠 Data Structures & Algorithms
 
-I'm constantly working on my problem-solving skills through:
-
-**Data Structures & Algorithms**
+<br>
 
 ### 🎯 My Goal
 
@@ -62,15 +62,16 @@ Write clean code.
 
 Build reliable software.
 
-Understand how systems work.
+Understand real-world systems.
 
-And become an engineer who creates systems that actually last.
+And grow into a software engineer who creates
+systems that actually last.
 
 </td>
 
 <td width="40%" align="center">
 
-<img src="./assets/about.gif" width="280"/>
+<img src="./assets/ascii-typing.gif" width="280">
 
 </td>
 
@@ -87,30 +88,30 @@ And become an engineer who creates systems that actually last.
 
 <div align="center">
 
-<a href="<GITHUB_LINK>">
-<img src="./assets/github.png" width="55"/>
+<a href="https://github.com/gessicaa19">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55">
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
-<a href="<LINKEDIN_LINK>">
-<img src="./assets/linkedin.png" width="55"/>
+<!-- CHANGE THIS: LinkedIn -->
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55">
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:<YOUR_EMAIL>">
-<img src="./assets/gmail.png" width="55"/>
+<!-- CHANGE THIS: Email -->
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="55">
 </a>
 
 </div>
 
-<br>
-
 ---
 
 <!-- ========================================================= -->
-<!--                     TECH STACK                            -->
+<!--                       TECH STACK                           -->
 <!-- ========================================================= -->
 
 ## 💻 Tech Stack
@@ -119,43 +120,54 @@ And become an engineer who creates systems that actually last.
 
 ### Languages
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50">
 
 <br><br>
 
 ### Backend
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50">
 
 <br><br>
 
 ### Databases
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50">
 
 <br><br>
 
 ### DevOps & Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50">
 
 </div>
 
 ---
 
 <!-- ========================================================= -->
-<!--                     GITHUB STATS                          -->
+<!--                    GITHUB STATS                            -->
 <!-- ========================================================= -->
 
 ## 📊 GitHub Stats
@@ -163,16 +175,16 @@ And become an engineer who creates systems that actually last.
 <div align="center">
 
 <img
-src="<GITHUB_STATS_IMAGE>"
-width="450"
-/>
+src="https://github-readme-stats.vercel.app/api?username=gessicaa19&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff"
+width="480"
+>
 
 <br><br>
 
 <img
-src="<GITHUB_STREAK_IMAGE>"
-width="450"
-/>
+src="https://streak-stats.demolab.com?user=gessicaa19&theme=dark&hide_border=true&background=0D1117"
+width="480"
+>
 
 </div>
 
@@ -187,16 +199,16 @@ width="450"
 <div align="center">
 
 <img
-src="<TOP_LANGUAGES_IMAGE>"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=gessicaa19&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff"
 width="400"
-/>
+>
 
 </div>
 
 ---
 
 <!-- ========================================================= -->
-<!--                  ACTIVITY GRAPH                            -->
+<!--                    CONTRIBUTIONS                          -->
 <!-- ========================================================= -->
 
 ## 📈 Activity Graph
@@ -204,9 +216,25 @@ width="400"
 <div align="center">
 
 <img
-src="<ACTIVITY_GRAPH_IMAGE>"
+src="https://github-readme-activity-graph.vercel.app/graph?username=gessicaa19&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"
 width="100%"
-/>
+>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                       PROFILE VIEWS                       -->
+<!-- ========================================================= -->
+
+## 👀 Profile Views
+
+<div align="center">
+
+<img
+src="https://komarev.com/ghpvc/?username=gessicaa19&style=for-the-badge&color=grey"
+>
 
 </div>
 
@@ -220,12 +248,10 @@ width="100%"
 
 <br>
 
-`while(alive) { code(); learn(); repeat(); }`
-
-<br><br>
-
-### Thanks for visiting ❤️
-
-<img src="./assets/footer.gif" width="250"/>
-
-</div>
+```text
+while(alive) {
+    code();
+    learn();
+    build();
+    repeat();
+}
