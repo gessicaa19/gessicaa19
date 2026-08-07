@@ -1,160 +1,231 @@
+<!-- ========================================================= -->
+<!--                    PROFILE HEADER                         -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-# ✨ REDOYANUL HAQUE ✨
-### 🚀 AI Developer &bull; Python Engineer &bull; Chatbot Architect 🚀
+<img src="./assets/ascii-typing.gif" width="420"/>
+
+<br>
+
+# Hi 👋, I'm <YOUR_NAME>
+
+### Backend Developer
+
+`Just Code Nig`
+
+<br>
+
+Building reliable backend systems with clean architecture,
+scalable solutions, and a little bit of obsession over details.
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                       ABOUT ME                             -->
+<!-- ========================================================= -->
+
+## 🚀 About Me
+
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+### Hey, I'm <YOUR_NAME> 👋
+
+I'm a **Computer Engineering student** focused on
+backend development and building real-world software.
+
+I enjoy creating:
+
+- ⚡ Scalable APIs
+- 🧩 Clean architectures
+- 🗄️ Database-driven applications
+- 🔐 Secure backend systems
+- 🐳 Containerized applications
+- 🚀 Production-ready services
+
+Currently learning and improving my skills in:
+
+**Python • FastAPI • PostgreSQL • SQLAlchemy • Docker • Redis**
+
+I'm constantly working on my problem-solving skills through:
+
+**Data Structures & Algorithms**
+
+### 🎯 My Goal
+
+Write clean code.
+
+Build reliable software.
+
+Understand how systems work.
+
+And become an engineer who creates systems that actually last.
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="./assets/about.gif" width="280"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ========================================================= -->
+<!--                       CONNECT                              -->
+<!-- ========================================================= -->
+
+## 🤝 Connect
+
+<div align="center">
+
+<a href="<GITHUB_LINK>">
+<img src="./assets/github.png" width="55"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="<LINKEDIN_LINK>">
+<img src="./assets/linkedin.png" width="55"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:<YOUR_EMAIL>">
+<img src="./assets/gmail.png" width="55"/>
+</a>
 
 </div>
 
 <br>
 
-<table width="100%" style="border: none; background-color: #0d1117;">
-<tr>
-<td width="38%" align="left" valign="top" style="border: none; padding-right: 5px;">
-<pre style="font-family: 'Fira Code', monospace; font-size: 6px; color: #BB86FC; line-height: 1; white-space: pre; background-color: #0d1117; padding: 0; margin: 0;">
-....................... .. ....:.:. ..-:..:.:::..:...-+=.-.....
-.......................................::............:..-:.....
-............................... ........:::..:..::::... .:.:...
-............................... . . .:......:........-::+::::. 
-..............................  ..... ...::.......:+:---:....  
-...................................:.......::.........:.. ......
-....................... ........#=..-:-.......::...:..... ..  
-............................. ..: -.:+.:::.:.......... .........
-..............................:+. .-:::=:.:.-............... .  
-...........................:-::-::.....:::=::.....:......... ...
-........................ ...+...  .::.-..::-.:...:.-....... ..
-....................:.......=:....-.. ..:--:.:.-.=:..: .......
-.......................::... :......... ..::....:....-..........
-.................. .....===:.:..... ......:.. .....:.::-.-.-..
-.....................-+:...-=+::...:....:.........=.++@.@-.:....
-....... ........:. ..:::..-.............::. .  ...  ....--+=-:..
-................ ..:........::......  :=:..=..= .-.........=.:::
-.................:::.......:... ...:::..:.--::.:::.....:...-:-:=
-...............:-.:. -:..:.:*=. ::.+#.=-:+-:..:.:.:..::.......::
-.................=.-....=:=::++-:......-..==.....::-::#--.:...=::
-....................:--.........:-:.:=+:.:.:.....-..=#*:*..:....
-............. .........*+-=.-*. ..:-:-:::.:.:...:-..--=**.-.....
-.............. .......:..:@=..-:...::=:.......  :-..::=:@.+:..::
-............... ..:..:-:=-.-:.::......::.:...=..:-..:--+*=.-..:=
-................ ::.. ..==...-:......-:....:=#:.....:==+%==:..::
-............... . ..::.+::........:::.. . ..#-.-:..-=-=:.-*++...
-...................-..-.==-.:.......-......:-::::::-=++-#...:.--
-..................::=+:.--:-:::--.--.:.-:..:....:.+@@@+%=*+-.*%@
-................. :..+:..-..-=:.--..:.:....:.:=.:-@@@=*@@@+:-+@@@
-.....................-+:.: .:..:.:...:....:..-+..%@@.@*##.:.%+@@@
-....................:.:::..:.::==:...:.:.....*-.-@:@@%*-::-#@@@@
-....................:....=--+=:---.......:.::::..===:.:-::*@@@@@
-...................... :..-:-.....-.::....===.*.#%++-.:*+@@@@@@@
-........................:.:..-:...:-.......:=#:%@@@@@@@%*@@@@@@@
-.......................:..--...............:--=**#*+===++*#@@@@@@
-.................. .......:-.::...:.:..:...---**=:..:-:::=++%@@@@
-.....................  ......::......:...-=:-==------:::.:-==%@@
-..........................................:#@%@@%%@@@@@@@%####%@
-...........................................*%%%@@@@@@@@@@%%@%#%@
-............................................@@%%@%@@%#====+%@@%%
-............................................+@**:..=*:...-:*@@@@
-............................................=#..:=#@@@==+*##%#@@
-.......................................... .-++-:===+**%%%%@@@@@
-........................................ . .-@%#*#%@@@@@%@@@@@@@
-............................................-@@@@@@@@@@@@@@@@@@@
-............................................:@@@@@@@@@@@@@@@@@@@
-.............................................%@@@@@@@@@@@@@@@@@@
-.............................................*@@@@@@@@@@@@@@@@@@
-.............................................-@@@@@@@@@@@@@@@@@@
-.............................................:@@@@@@@@@@@@@@@@@@
-..............................................+@@@@@@@@@@@@@@@@@
-...............................................@@@@@@@@@@@@@@@@@
-...............................................-@@@@@@@@@@@@@@@@
-................................................+@@@@@@@@@@@@@@@
-................................................. *@@@@@@@@@@@@@
-................................................ .*@@@@@@@@@@@@@
-...................................................#@@@@@@@@@@@@
-...................................................:%@@@@@@@@@@@
-....................................................:%@@@@@@@@@@
-.....................................................-%@@@@@@@@@
-..................................................... =%@@@@@@@@
-.......................................................=%%@@@@@@
-........................................................-%%@@@%#
-.........................................................:#%@@**
-...........................................................*%@@%
-........................................................... =%%@
-.............................................................-#%
-..............................................................-%
-...............................................................=
-.............................................................::.
-............................................................::..
-................................ .........:::.....#%@@@@@@@@@@@@
-................................ .........::::::......+@@@@@@@@@
-................................  ...........::.:::::::::::.....
-............................... .....::::::....:::::::::::......
-..............................:::::::::::::::::::::::::::.......
-..........................::::::::::::::::::::::::::::::........
-.................. .....::::::::::::.:::::::::::.::::::.........
-................. ...::::::::::.::....::::::::::.::::...........
-.............. ..::::::::::::::::....:::::::::..:.::............
-...............:::::::::::::::::.....:::..:::.:::::....:........
-.............::::::::::::::::::::........:::::::::::............
-...........:::::::::.::::..::::::........:::::..::..............
-.... .....::::::::..::::...:::::........:::::::....:............
-.... ...::::::::.....::::....::::.......::::....:.:.............
-.......::::::::........::::....:........::......................
-......:::::::::........::..:::::........:......:................
-....:.:::::::.::.....::::..::::::........::....:..............::
-</pre>
-</td>
-<td width="62%" align="left" valign="top" style="border: none; padding-left: 10px; color: #E0E0E0;">
+---
 
-### **rayanbengourchii-code**
+<!-- ========================================================= -->
+<!--                     TECH STACK                            -->
+<!-- ========================================================= -->
 
-**Name:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Redoyanul Haque**
-<br>
-**Role:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; AI Developer & Python Engineer
-<br>
-**Location:** &nbsp; &nbsp; &nbsp; &nbsp; Bangladesh (GMT+6)
-<br>
-**Focus:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Building Intelligent Systems & AI Agents
-<br>
-<br>
-**Areas:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; AI & ML &bull; Chatbot Architecture &bull; Full-Stack
-<br>
-**Languages:** &nbsp; &nbsp; Python &bull; TypeScript &bull; C/C++ &bull; Cython
-<br>
-**AI/ML Stack:** &nbsp; PyTorch &bull; Transformers &bull; LLMs &bull; LangGraph
-<br>
-**Frameworks:** &nbsp; React &bull; Vite &bull; Tailwind CSS &bull; FastAPI
-<br>
-<br>
-**Goal:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Learn up to infinity & build next-gen AI systems
-<br>
-**GitHub:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/rayanbengourchii-code" target="_blank">github.com/rayanbengourchii-code</a>
-<br>
-**Email:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="mailto:redoyanul1234@gmail.com">redoyanul1234@gmail.com</a>
-<br>
-<br>
+## 💻 Tech Stack
 
-<img src="https://raw.githubusercontent.com/Inter-web/catppuccin-user-styles/main/assets/icons/macchiato_bar.png" alt="Color Bar" width="280" />
+<div align="center">
 
-</td>
-</tr>
-</table>
+### Languages
 
-***
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
 
-### 📊 GitHub Analytics & Metrics
+<br><br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayanbengourchii-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayanbengourchii-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+### Backend
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayanbengourchii-code&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
+
+<br><br>
+
+### Databases
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45"/>
+
+<br><br>
+
+### DevOps & Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+
+</div>
 
 ---
 
+<!-- ========================================================= -->
+<!--                     GITHUB STATS                          -->
+<!-- ========================================================= -->
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <h3>⚡ Let's Connect & Build the Future ⚡</h3>
-  <p>
-    <em>"Code is poetry. AI is the canvas."</em>
-  </p>
+
+<img
+src="<GITHUB_STATS_IMAGE>"
+width="450"
+/>
+
+<br><br>
+
+<img
+src="<GITHUB_STREAK_IMAGE>"
+width="450"
+/>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                  MOST USED LANGUAGES                      -->
+<!-- ========================================================= -->
+
+## 🧠 Most Used Languages
+
+<div align="center">
+
+<img
+src="<TOP_LANGUAGES_IMAGE>"
+width="400"
+/>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                  ACTIVITY GRAPH                            -->
+<!-- ========================================================= -->
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img
+src="<ACTIVITY_GRAPH_IMAGE>"
+width="100%"
+/>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                         FOOTER                             -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<br>
+
+`while(alive) { code(); learn(); repeat(); }`
+
+<br><br>
+
+### Thanks for visiting ❤️
+
+<img src="./assets/footer.gif" width="250"/>
+
 </div>
