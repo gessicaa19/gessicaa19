@@ -20,8 +20,8 @@
   </a>
 </p>
 
-<h1 align="center" style="font-family: 'Cinzel', 'Lucida Blackletter', 'Courier New', serif; letter-spacing: 2px;">
-  𝔥𝔦 👋, 𝔦'𝔪 𝔯𝔞𝔶𝔞𝔫
+<h1 align="center">
+  <code>Hi 👋, I'm Rayan</code>
 </h1>
 
 <h3 align="center">AI Developer & Python Engineer | Backend Developer</h3>
