@@ -49,13 +49,29 @@
 
 ---
 
-## 🏆 Achievements
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🏆 ACHIEVEMENTS SECTION                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=red1-for-hek&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&row=2&columns=4" width="100%" />
-</p>
+<img src="./assets/section-trophy.svg" width="200"/>
 
----
+<br/><br/>
+
+<div align="center">
+  
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-trophies.vercel.app/?username=red1-for-hek&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
+  </a>
+  
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
 
 ## ⚙️ Tech Stack & Technologies
 
