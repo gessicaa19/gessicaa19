@@ -9,8 +9,8 @@
 
 <table width="100%" style="border: none; background-color: #0d1117;">
 <tr>
-<td width="50%" align="center" valign="top" style="border: none;">
-<pre style="font-family: 'Fira Code', monospace; font-size: 8px; color: #BB86FC; line-height: 1; white-space: pre; background-color: #0d1117; padding: 0; margin: 0;">
+<td width="42%" align="left" valign="top" style="border: none; padding-right: 10px;">
+<pre style="font-family: 'Fira Code', monospace; font-size: 7px; color: #BB86FC; line-height: 1; white-space: pre; background-color: #0d1117; padding: 0; margin: 0;">
 ............................................ .. ....:.:. .....-:..:.:::..:...-+=.-.....:.:::.. ....... .......:..:...:.... . ...................................
 .............................................................::............:..-:.....:...:..--::.....:-:....::-:....:...........................................
 ...................................... ... ........:::..:..::::... .:.:...:=-.:..:.... :::-=-:.:.........:. .....-:. .-::-=-:...  ..............................
@@ -83,7 +83,7 @@
 .............................................................::.+%@@@@@@%%%#####%%%%%%%%%%%%%%%%##*+==-::::......:::::::::----::.. ....:::.......... . .........
 ............................................................::...*@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%##*+=-:..........::::::::------:.. ..:..:............ ..........
 ................................................ .........:::.....#%@@@@@@@@@@@@@@@@@@@@@@@@%%##**=-::...........:::::::------::................:..... .........
-................................................. .........::::::......+@@@@@@@@@@@@@@@@@@@@%%%##**++=:::............::::::--===--:.................::.........     
+................................................ .........::::::......+@@@@@@@@@@@@@@@@@@@@%%%##**++=:::............::::::--===--:........roni..::.........     
 ................................  ...........::.:::::::::::........ -#@@@@@@@@%%%%%%%%####*+++=-::...::::...........::--====--:.............. ...:......  .. .. 
 ............................... .....::::::....:::::::::::.......... :+#@@%%@%%%###**+*+*++=-:......::::..........::::-=====-:................................  
 ..............................:::::::::::::::::::::::::::.............-*+***#******+=+----:......::::::...........:::-==+++=-:............................. ....
@@ -101,9 +101,9 @@
 ....:.:::::::.::.....::::..::::::........::....:..............::...::....+@@@@@@%@@@@@@@@@%%%%#####%%@@@@%##*++***####**+.............. ........................
 </pre>
 </td>
-<td width="50%" align="left" valign="top" style="border: none; padding-left: 20px; color: #E0E0E0;">
+<td width="58%" align="left" valign="top" style="border: none; padding-left: 10px; color: #E0E0E0;">
 
-### **red1@dev**
+### **rayanbengourchii-code**
 
 **Name:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Redoyanul Haque**
 <br>
@@ -111,7 +111,7 @@
 <br>
 **Location:** &nbsp; &nbsp; &nbsp; &nbsp; Bangladesh (GMT+6)
 <br>
-**Focus:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Building Intelligent Systems & JARVIS-like AI
+**Focus:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Building Intelligent Systems & AI Agents
 <br>
 <br>
 **Areas:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; AI & ML &bull; Chatbot Architecture &bull; Full-Stack
@@ -123,7 +123,7 @@
 **Frameworks:** &nbsp; React &bull; Vite &bull; Tailwind CSS &bull; FastAPI
 <br>
 <br>
-**Goal:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Learn up to infinity & build next-gen AI agents
+**Goal:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Learn up to infinity & build next-gen AI systems
 <br>
 **GitHub:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/rayanbengourchii-code" target="_blank">github.com/rayanbengourchii-code</a>
 <br>
@@ -131,7 +131,7 @@
 <br>
 <br>
 
-<img src="https://raw.githubusercontent.com/Inter-web/catppuccin-user-styles/main/assets/icons/macchiato_bar.png" alt="Color Bar" width="350" />
+<img src="https://raw.githubusercontent.com/Inter-web/catppuccin-user-styles/main/assets/icons/macchiato_bar.png" alt="Color Bar" width="300" />
 
 </td>
 </tr>
@@ -147,7 +147,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayanbengourchii-code&theme=tokyonight&hide_border=add&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayanbengourchii-code&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
