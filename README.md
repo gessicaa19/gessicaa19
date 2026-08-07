@@ -24,28 +24,23 @@
 
 ---
 
-<h2 align="center">👨‍💻 About me</h2>
+<div align="center">
 
-<table width="100%" style="border: none; background-color: transparent;">
-<tr>
-<td width="60%" align="left" valign="middle" style="border: none;">
+## 👨‍💻 About me
 
 Hello There! I'm **Rayan**, an AI Developer & Software Engineering student. I enjoy building intelligent systems, solving algorithmic problems, and working on backend architectures.
 
 <br>
 
-* 🏢 Studying Software Engineering & AI
-* 💻 Active in Competitive Programming & Development
-* 🚀 Building real-world web & AI applications
+🏢 Studying Software Engineering & AI  
+💻 Active in Competitive Programming & Development  
+🚀 Building real-world web & AI applications  
 
-</td>
-<td width="40%" align="center" valign="middle" style="border: none;">
+<br>
 
-<img src="./assets/ascii-typing.gif" width="220" alt="ASCII Typing Animation" />
+<img src="./assets/ascii-typing.gif" width="280" alt="ASCII Typing Animation" />
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
