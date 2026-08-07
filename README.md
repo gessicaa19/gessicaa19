@@ -2,9 +2,15 @@
   <img src="./assets/github-readme.png" width="100%" alt="Benjamin's GitHub README">
 </p>
 
+<p align="center">
+  <img src="./assets/ascii-typing.gif" width="100%" alt="ASCII Animation">
+</p>
+
 <h1 align="center">Hi 👋, I'm Benjamin</h1>
 
-<h3 align="center">Computer Engineering Student | Backend Developer</h3>
+<h3 align="center">
+  Computer Engineering Student | Backend Developer
+</h3>
 
 <p align="center">
   Building reliable backend systems with clean architecture,
@@ -49,11 +55,9 @@ systems that actually last.
 ## 🤝 Connect
 
 <p align="center">
-
-<a href="https://github.com/">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
 ---
