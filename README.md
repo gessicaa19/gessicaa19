@@ -2,14 +2,29 @@
   <img src="./assets/github-readme.png" width="100%" alt="Rayan's GitHub README">
 </p>
 
-<h1 align="center">Hi 👋, I'm Rayan</h1>
+<p align="center">
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white&color=0b0f19" />
+  </a>
+  <a href="https://codeforces.com">
+    <img src="https://img.shields.io/badge/CODEFORCES-000000?style=for-the-badge&logo=codeforces&logoColor=white&color=0b0f19" />
+  </a>
+  <a href="https://codechef.com">
+    <img src="https://img.shields.io/badge/CODECHEF-000000?style=for-the-badge&logo=codechef&logoColor=white&color=0b0f19" />
+  </a>
+  <a href="https://pinterest.com">
+    <img src="https://img.shields.io/badge/PINTEREST-000000?style=for-the-badge&logo=pinterest&logoColor=white&color=0b0f19" />
+  </a>
+  <a href="https://chess.com">
+    <img src="https://img.shields.io/badge/CHESS.COM-000000?style=for-the-badge&logo=chess.com&logoColor=white&color=0b0f19" />
+  </a>
+</p>
+
+<h1 align="center" style="font-family: 'Cinzel', 'Lucida Blackletter', 'Courier New', serif; letter-spacing: 2px;">
+  𝔥𝔦 👋, 𝔦'𝔪 𝔯𝔞𝔶𝔞𝔫
+</h1>
 
 <h3 align="center">AI Developer & Python Engineer | Backend Developer</h3>
-
-<p align="center">
-  Building reliable systems with clean architecture,
-  scalable AI solutions, and production-ready code.
-</p>
 
 ---
 
