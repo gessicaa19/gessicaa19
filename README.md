@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<h3 align="center">AI Developer & Python Engineer | Backend Developer</h3>
+<h3 align="center">Full-Stack & AI Developer | FinTech & Trading Systems Creator</h3>
 
 ---
 
@@ -30,13 +30,13 @@
 <tr>
 <td width="60%" align="left" valign="middle" style="border: none;">
 
-✨ Hello There! I'm **Rayan**, an AI Developer & Software Engineering student. 🌟 I enjoy building intelligent systems, solving algorithmic problems, and working on backend architectures. 💫
+✨ Hello There! I'm **Rayan**, a Freelance Full-Stack & AI Developer. 🌟 I specialize in building scalable web applications, automated tools, and custom algorithmic trading backtesting systems for financial markets. 💫
 
 <br>
 
-⭐ Studying Software Engineering & AI  
-✨ Active in Competitive Programming & Development  
-🌟 Building real-world web, mobile & AI applications  
+⭐ Building modern web apps (React, Vite, Tailwind CSS)  
+✨ Developing AI solutions & automation workflows  
+🌟 Creating custom backtesting dashboards for XAUUSD & FinTech  
 
 </td>
 <td width="40%" align="center" valign="middle" style="border: none;">
@@ -52,20 +52,15 @@
 ## ⚙️ Tech Stack & Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/FLUTTER-000000?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/REACT_NATIVE-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TAILWIND-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/VITE-000000?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/FASTAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
 
 ---
 
@@ -107,6 +102,14 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" title="Bash"/></a>
 </p>
 
+<!-- 📈 FINTECH & TRADING -->
+<h4>📈 FinTech & Trading Systems</h4>
+<p>
+  <img src="https://img.shields.io/badge/XAUUSD-Gold_Trading-ffd700?style=for-the-badge&logo=coinmarketcap&logoColor=black" alt="XAUUSD" />
+  <img src="https://img.shields.io/badge/Backtesting-Engine-blueviolet?style=for-the-badge&logo=python&logoColor=white" alt="Backtesting" />
+  <img src="https://img.shields.io/badge/TradingView-APIs-2962FF?style=for-the-badge&logo=tradingview&logoColor=white" alt="TradingView" />
+</p>
+
 <!-- 📱 MOBILE DEVELOPMENT -->
 <h4>📱 Mobile Development</h4>
 <p>
@@ -128,6 +131,7 @@
 <h4>🌐 Web Development</h4>
 <p>
   <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React"/></a>
+  <a href="https://vitejs.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" title="Vite"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" title="Next.js"/></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" title="FastAPI"/></a>
@@ -167,7 +171,7 @@
 <img src="./assets/divider.svg" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎮 CONTRIBUTION SHOWCASE                                                    -->
+<!-- 🎮 CONTRIBUTION SHOWCASE                                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <img src="./assets/section-game.svg" width="280"/>
@@ -232,7 +236,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=80&section=footer"/>
   
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 📝 END OF README                                                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
