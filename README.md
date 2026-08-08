@@ -194,7 +194,23 @@
 <img src="./assets/divider.svg" width="100%"/>
 
 <br/>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 💡 RANDOM DEV QUOTE                                                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
+<div align="center">
+  
+### 💭 Random Dev Quote
+
+<br/>
+
+<a href="https://github.com/red1-for-hek">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="60%"/>
+</a>
+
+</div>
+
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🌟 FOOTER                                                                   -->
